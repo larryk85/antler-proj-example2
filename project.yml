@@ -1,0 +1,11 @@
+project: example2
+version: 0.0.0
+libs:
+  - name: bar
+    lang: CXX
+    compile_options: ""
+    link_options: ""
+  - name: baz
+    lang: CXX
+    compile_options: ""
+    link_options: ""
